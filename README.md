@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Daedalus-nox
+- 👋 Hi, I’m Leonard Fedal
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning all the basics in web developement
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: Sidi
+- 📫 How to reach me : leonardfedal@gmail.com
 - ⚡ Fun fact: I can speak 5 languages 
 
 <!---
